@@ -9,6 +9,9 @@ export default {
   theme: {
     extend: {
       colors: {
+        myyellow:"#F4E0AF",
+        mypink:"#FFF4EA",
+        mywhite:"#F6F5F2",
         background: "var(--background)",
         foreground: "var(--foreground)",
       },
