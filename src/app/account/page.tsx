@@ -83,6 +83,7 @@ const Navbar = () => {
       <Accounthero />
       <Login />
       <Delivery />
+      <Shophero />
     </>
   );
 };
