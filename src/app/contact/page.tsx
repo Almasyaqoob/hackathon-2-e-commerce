@@ -57,6 +57,7 @@ const Contact = () => {
       <Get />
       <Address/>
       <Delivery/>
+      <Shophero />
     </div>
   );
 };
